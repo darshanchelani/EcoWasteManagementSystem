@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_details"
+        android:icon="@drawable/ic_person"
+        android:title="Profile Details" />
+
+    <item
+        android:id="@+id/bank_details"
+        android:icon="@drawable/ic_account_balance"
+        android:title="Bank Details" />
+
+    <item
+        android:id="@+id/benefits_of_waste_management"
+        android:icon="@drawable/ic_check"
+        android:title="Benefits of Waste Management" />
+
+    <item
+        android:id="@+id/check_your_pickup_status"
+        android:icon="@drawable/ic_location_on"
+        android:title="Check Your Pickup Status" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_exit_to_app"
+        android:title="Logout" />
+
+</menu>
